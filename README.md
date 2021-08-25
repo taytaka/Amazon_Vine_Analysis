@@ -3,6 +3,7 @@
 The purpose of this analysis is to determine whether there is any bias in paid (Vine) reviews compared to non-paid (non-Vine) reviews. In doing so, we can decide whether or not to use the Vine program to pay for Amazon reviews.
 
 ## Technologies Used
+- PySpark, Google Colab, Python, Amazon RDS
 
 ## Results
 - Total Vine vs. Non-Vine Reviews
